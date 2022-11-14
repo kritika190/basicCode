@@ -6,3 +6,6 @@ list.stream().filter(x->x%2!=0).forEach(x->System.out.print(x))
   
   thankyou:)
 .
+new branch
+
+list.stream().mapToInt().collect(Collectors.toSet));
